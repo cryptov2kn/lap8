@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    int number;
+
+    printf("Nhap mot so: ");
+    scanf("%d", &number);
+
+    printf("Ban da nhap: %d\n", number);
+
+    return 0;
+}
